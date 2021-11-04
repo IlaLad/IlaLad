@@ -1,3 +1,5 @@
+### Full-Stack Web Developer
+
 - 👋 Hi, I’m @IlaLad
 
 
@@ -7,3 +9,5 @@ I'm experienced and confident in working with many different languages such as: 
 Great communication skills and can guarantee a quick turnaround time.
 <br>
 I can provide on going support after the project completion as well,
+
+![Harpreet's GitHub stats](https://github.com/IlaLad)
