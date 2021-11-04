@@ -10,4 +10,4 @@ Great communication skills and can guarantee a quick turnaround time.
 <br>
 I can provide on going support after the project completion as well,
 
-![Harpreet's GitHub stats](https://github.com/IlaLad)
+![Ila Lad's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlaLad&show_icons=true&theme=radical)
