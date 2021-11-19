@@ -10,4 +10,12 @@ Great communication skills and can guarantee a quick turnaround time.
 <br>
 I can provide on going support after the project completion as well,
 
+-React.js <br>
+-Node.js<br>
+-HTML/CSS<br>
+-Vue.js<br>
+-WordPress/Woocommerce<br>
+
+
+
 ![Ila Lad's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlaLad&show_icons=true&theme=radical)
